@@ -1,0 +1,21 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "unityGameId": "9999",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+
+    "admobBanner": "",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+
+    "modeads": false,
+    "IMG1_URL": "https://cross-pan.netlify.app/c69-5.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.tocaboca_mermaid.tocaworld_dressup",
+    "IMG2_URL": "https://cross-pan.netlify.app/c69-6.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.migatownbarby.tocaboca_dressup",
+    "ratingActive": true
+  }
+}
