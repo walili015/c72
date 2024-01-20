@@ -16,11 +16,11 @@
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     
-    "game2": false,
-    "modeads": false,
-    "IMG1_URL": "",
+    "game2": true,
+    "modeads": true,
+    "IMG1_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
     "TEXT1_URL": "",
-    "IMG2_URL": "",
+    "IMG2_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
     "TEXT2_URL": "",
     "ratingActive": true
   }
