@@ -13,7 +13,7 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
 
-    "appsuspand": true,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
     
     "game2": true,
