@@ -1,6 +1,6 @@
   {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "unity",
 
     "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -13,15 +13,15 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
 
-    "appsuspand": true,
-    "appURL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=xxxxxxx",
     
-    "game2": true,
-    "modeads": true,
-    "IMG1_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
-    "IMG2_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
+    "game2": false,
+    "modeads": false,
+    "IMG1_URL": "",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
+    "IMG2_URL": "",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
     "ratingActive": true
   }
 }
