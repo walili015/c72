@@ -13,15 +13,15 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
 
-    "appsuspand": false,
-    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
+    "appsuspand": true,
+    "appURL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
     
     "game2": true,
     "modeads": true,
     "IMG1_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
-    "TEXT1_URL": "",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
     "IMG2_URL": "https://i.pinimg.com/originals/a4/63/1e/a4631eb80504d9c5bc30955ad77828e5.png",
-    "TEXT2_URL": "",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.endrybond.miga_town_wallpaper",
     "ratingActive": true
   }
 }
