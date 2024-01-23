@@ -16,7 +16,7 @@
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=xxxxxxx",
     
-    "game2": false,
+    "game2": true,
     "modeads": false,
     "IMG1_URL": "",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
